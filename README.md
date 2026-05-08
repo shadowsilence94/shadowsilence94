@@ -1,25 +1,22 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shadowsilence94/shadowsilence94/main/github_profile_banner.png" width="100%" alt="Htut Ko Ko Banner">
+  <img src="https://raw.githubusercontent.com/shadowsilence94/shadowsilence94/main/github_profile_banner.png" width="100%" height="150px" style="object-fit: cover; border-radius: 12px;" alt="Htut Ko Ko Banner">
 </div>
 
-# Hi there! I'm Htut Ko Ko 👋
-
 <div align="center">
-  <h3>Multipotent Data Scientist | Full-Cycle Analytics, Engineering & ML Specialist</h3>
-  <p>Exploring the frontiers of AI, one model at a time.</p>
+  <h1>Hi 👋, I'm Htut Ko Ko</h1>
+  <p><strong>Multipotent Data Scientist | Full-Cycle Analytics, Engineering & ML Specialist</strong></p>
 </div>
 
 ---
 
-### 🧬 About Me
+### 🔭 I'm currently...
 
-I am a **Data Scientist** and **AI Engineer** with a passion for building end-to-end intelligent systems. Currently pursuing my **MSc at AIT** and honing my low-level programming skills at **42 Bangkok**. I specialize in bridging the gap between raw data and actionable intelligence.
-
-- 🔭 I’m currently working on **Contextual Retrieval AI (RAG)** and **LLM Evaluation Frameworks**.
-- 🌱 I’m currently learning **Advanced Deep Learning** and **High-Performance Computing**.
-- 👯 I’m looking to collaborate on **Open Source AI tools** and **Data Engineering pipelines**.
-- 💬 Ask me about **NLP, NLI, or why C is still relevant in an AI world**.
-- ⚡ Fun fact: I believe in the power of "Multipotent" learning—mastering diverse domains to innovate at their intersections.
+- 🔭 Working on **Contextual Retrieval AI (RAG)** and **LLM Evaluation Frameworks**.
+- 🌱 Learning **Advanced Deep Learning** and **High-Performance Computing**.
+- 🎓 Pursuing **MEng at AIT** and mastering low-level programming at **42 Bangkok**.
+- 👯 Looking to collaborate on **Open Source AI tools** and **Data Engineering pipelines**.
+- 👨‍💻 All of my projects are available at **[my website](https://www.htutkoko.me/)**.
+- 📫 How to reach me **htutkoko1994@gmail.com** or through **[LinkedIn](https://linkedin.com/in/htutkoko)**.
 
 ---
 
@@ -65,14 +62,12 @@ I am a **Data Scientist** and **AI Engineer** with a passion for building end-to
 
 ---
 
-### 🚀 What I've Done So Far
+### 🚀 Highlighted Work
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Contextual Retrieval AI](https://github.com/shadowsilence94/Contextual-Retrieval)** | A high-performance RAG system utilizing advanced embedding techniques. | Python, Pinecone, OpenAI |
-| **[MediSim](https://github.com/shadowsilence94/MediSim)** | Medical simulation platform for training healthcare professionals. | React, Firebase, Node.js |
-| **[LLM as a Judge](https://github.com/shadowsilence94/LLM-Judge)** | Automated evaluation framework for model responses. | Python, LangChain, GPT-4 |
-| **[TDT-IS](https://github.com/shadowsilence94/TDT-IS)** | Travel and Destination Tracking Intelligence System. | TypeScript, React, MongoDB |
+- 🤖 **[Contextual Retrieval AI](https://github.com/shadowsilence94/Contextual-Retrieval)**: High-performance RAG system with advanced embeddings.
+- 🏥 **[MediSim](https://github.com/shadowsilence94/MediSim)**: Medical simulation platform for healthcare training.
+- ⚖️ **[LLM as a Judge](https://github.com/shadowsilence94/LLM-Judge)**: Automated evaluation framework for model responses.
+- 🌍 **[TDT-IS](https://github.com/shadowsilence94/TDT-IS)**: Travel and Destination Tracking Intelligence System.
 
 ---
 
