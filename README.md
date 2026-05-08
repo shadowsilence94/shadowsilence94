@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./github_profile_banner.png" width="100%" alt="Htut Ko Ko Banner">
+  <img src="https://raw.githubusercontent.com/shadowsilence94/shadowsilence94/main/github_profile_banner.png" width="100%" alt="Htut Ko Ko Banner">
 </div>
 
 # Hi there! I'm Htut Ko Ko 👋
