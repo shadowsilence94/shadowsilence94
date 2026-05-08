@@ -52,15 +52,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadowsilence94&show_icons=true&theme=tokyonight&count_private=true" alt="Htut Ko Ko's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowsilence94&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shadowsilence94&show_icons=true&theme=radical&count_private=true" alt="Htut Ko Ko's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowsilence94&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowsilence94&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowsilence94&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
