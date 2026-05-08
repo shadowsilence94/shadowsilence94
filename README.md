@@ -3,9 +3,9 @@
   
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=I+am+a+Data+Science,+ML+and+AI+Enthusiast.;Welcome+for+any+collaborations.">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0F0C29&center=true&vCenter=true&width=1000&lines=I+am+a+Data+Science,+ML+and+AI+Enthusiast.;Welcome+for+any+collaborations.">
-      <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0F0C29&center=true&vCenter=true&width=1000&lines=I+am+a+Data+Science,+ML+and+AI+Enthusiast.;Welcome+for+any+collaborations.">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=I+am+an+AI+Enthusiast.;Welcome+for+any+collaborations.">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0F0C29&center=true&vCenter=true&width=1000&lines=I+am+an+AI+Enthusiast.;Welcome+for+any+collaborations.">
+      <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0F0C29&center=true&vCenter=true&width=1000&lines=I+am+an+AI+Enthusiast.;Welcome+for+any+collaborations.">
     </picture>
   </a>
 </div>
@@ -55,7 +55,8 @@
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/shadowsilence94?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia/Bangkok" alt="GitHub Metrics" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shadowsilence94&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowsilence94&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <div align="center">
