@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Htut%20Ko%20Ko&fontSize=80&fontAlign=50&fontAlignY=35&animation=twinkling" width="100%" alt="Htut Ko Ko Header">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=I+am+a+Data+Science,+ML+and+AI+Enthusiast.;Welcome+for+any+collaborations." alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=I+am+a+Data+Science,+ML+and+AI+Enthusiast.;Welcome+for+any+collaborations.">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0F0C29&center=true&vCenter=true&width=600&lines=I+am+a+Data+Science,+ML+and+AI+Enthusiast.;Welcome+for+any+collaborations.">
+      <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0F0C29&center=true&vCenter=true&width=600&lines=I+am+a+Data+Science,+ML+and+AI+Enthusiast.;Welcome+for+any+collaborations.">
+    </picture>
   </a>
 </div>
 
