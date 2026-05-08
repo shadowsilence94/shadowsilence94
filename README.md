@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shadowsilence94/shadowsilence94/main/github_profile_banner.png" width="100%" height="150px" style="object-fit: cover; border-radius: 12px;" alt="Htut Ko Ko Banner">
-</div>
-
-<div align="center">
-  <h1>Hi 👋, I'm Htut Ko Ko</h1>
-  <p><strong>Multipotent Data Scientist | Full-Cycle Analytics, Engineering & ML Specialist</strong></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Htut%20Ko%20Ko&fontSize=80&fontAlign=50&fontAlignY=35&animation=twinkling" width="100%" alt="Htut Ko Ko Header">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Multipotent+Data+Scientist;Full-Cycle+Analytics+Specialist;AI+%26+ML+Engineer;MEng+Student+at+AIT" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
