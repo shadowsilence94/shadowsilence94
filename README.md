@@ -55,8 +55,8 @@
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadowsilence94&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowsilence94&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shadowsilence94&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shadowsilence94&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -91,6 +91,3 @@
   </a>
 </div>
 
-<div align="center">
-  <sub>Built with ❤️ by Antigravity</sub>
-</div>
